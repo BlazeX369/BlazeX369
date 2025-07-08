@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Blaze and I'm proud to be a n00bie!
 - 👀 I’m interested in: App/Software development & Deep Learning Systems
 - 🌱 I’m currently learning the basics: Python, Java, Powershell/CMD for Windows.  
-- 💞️ I’m looking to collaborate on future projects centered in Prototype/Probing data collection to be used for real-time sustainable businesses' that help solve global issues. And currently create custom minecraft mods and world maps! 
-- 📫 If you are passionately curious, you can reach me at my current business email: Blazexanderson178@gmail.com (I hope to eventually expand to a business account to collab!)
+- 💞️ Currently working on my first Minecraft Mod!
 
 <!---
 BlazeX369/BlazeX369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
